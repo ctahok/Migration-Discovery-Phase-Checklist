@@ -24,6 +24,9 @@
 
     _What does this server or device do? Is it the server that runs your payroll system? Or the one that hosts your canteen lunch menu?_
 
+- [ ] Ids device/server a hypervisor with workloads? 
+    _Does the device host other workloads?
+ 
 - [ ] Workload owner & contact details
 
     _Who in the business is the owner of this workload, who needs to authorise outages, changes etc_
@@ -41,6 +44,10 @@
 - [ ] Support contract information (workload)
 
     _Contact information for your workload vendor support_
+
+- [ ] Support contract exit/break clause? 
+
+    _What are the exit concequences technical/financial_
 
 - [ ] Environment (prod, dev, test, etc)
 
